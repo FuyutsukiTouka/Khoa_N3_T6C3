@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nguyen Bao Dang Khoa</h1>
 <h3 align="center">I'm a 3rd year student from HUFLIT and I am a front-end developer</h3>
 
-- 💬 Ask me about **User Interface, User Experience**
+- 💬 Ask me about: **User Interface, User Experience**
 
-- ⚡ Fun fact **I like manga, anime and light novel**
+- ⚡ Fun fact: **I like manga, anime and light novel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
